@@ -1,2 +1,5 @@
 # COVID_and_Happiness
-A data analysis on spread of COVID-19 and happiness of people living in the country in Python.
+
+## Target Question: Is there a relationship between spread of COVID-19 in a country and how happy people are living in that country ?
+
+Take a look at this repo to find out.
